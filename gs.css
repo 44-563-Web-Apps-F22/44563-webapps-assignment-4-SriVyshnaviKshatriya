@@ -1,0 +1,54 @@
+.speech{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.song{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+
+}
+
+.direction{
+    color: black;
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.direction:hover{
+    background-color: yellow;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.name{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+:hover{
+    background-color: yellow;
+    color: blueviolet;
+
+}
+.Fitz{
+    color: darkcyan;
+
+} 
+.Zara{
+    color: rgb(218, 14, 126);
+
+}
+.Both{
+    color: goldenrod;
+
+}  
+.King{
+    color: lawngreen;
+
+}
