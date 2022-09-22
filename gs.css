@@ -31,11 +31,6 @@
     font-size: medium;
 }
 
-:hover{
-    background-color: yellow;
-    color: blueviolet;
-
-}
 .Fitz{
     color: darkcyan;
 
@@ -47,8 +42,35 @@
 .Both{
     color: goldenrod;
 
-}  
-.King{
-    color: lawngreen;
-
 }
+.King{
+    color: darkmagenta;
+    
+} 
+.King:hover{
+    color: rgb(248, 4, 4);
+    text-shadow:2px 3px 5px green
+} 
+
+.LordD{
+    color: tomato;
+}
+
+.LordD:hover{
+    color: rgb(10, 82, 227);
+    text-shadow:2px 3px 5px black;
+}
+table{
+    border:solid 3px red;
+    
+    color: rgb(5, 20, 229);
+    text-align: center;   
+}
+td,td,th,tr{
+    border: 2px solid black;
+}
+tr:nth-child(even){background-color: #ed5e5e;}
+
+tr:hover {background-color: rgb(220, 234, 19);}
+
+
